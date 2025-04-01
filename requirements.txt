@@ -1,4 +1,4 @@
 # Required for the AI/ML notebook
 numpy >= 2.0.2
 matplotlib >= 3.8.4
-sklearn >= 1.5.2
+scikit-learn >= 1.5.2
