@@ -3,6 +3,7 @@
 ## Quick Start
 Links to launch the individual notebooks in Binder:
 - Machine Learning Activity - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/elvd/uob_outreach/HEAD?urlpath=%2Fdoc%2Ftree%2Fml_activity.ipynb)
+- Cyrptography Activity - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/elvd/uob_outreach/HEAD?urlpath=%2Fdoc%2Ftree%2Fencryption_activity.ipynb)
 
 ## Introduction
 This repository contains a number of Jupyter notebooks that are used for various outreach, public engagement, and schools visits as part of my role at the University of Bradford. They are meant to introduce young people to various AI, ML, and electronic and electrical engineering concepts.
